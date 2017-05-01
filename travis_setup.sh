@@ -1,2 +1,1 @@
-mkdir .flutter
-(cd .flutter && git clone https://github.com/flutter/flutter.git && git checkout origin/alpha)
+git clone https://github.com/flutter/flutter.git -b alpha --depth 1
